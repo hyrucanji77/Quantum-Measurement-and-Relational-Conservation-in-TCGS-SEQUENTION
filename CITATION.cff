@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "Please cite the manuscript and identify the repository commit used for numerical reproduction."
+title: "Quantum Measurement and Relational Conservation in TCGS–SEQUENTION: Invariants, Preparation, and Conditional Readout"
+type: software
+authors:
+  - family-names: "Arellano-Peña"
+    given-names: "Henry"
+    affiliation: "Nuevo Estándar Biotropical NEBIOT S.A.S., Bogotá, Colombia"
+version: "3"
+date-released: 2026-11-04
+url: "https://github.com/hyrucanji77/Quantum-Measurement-and-Relational-Conservation-in-TCGS-SEQUENTION"
+repository-code: "https://github.com/hyrucanji77/Quantum-Measurement-and-Relational-Conservation-in-TCGS-SEQUENTION"
+license: CC-BY-4.0

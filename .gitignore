@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+*.tex
+*.bib
+*.sty
+*.cls
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*Overleaf*.zip
+*OVERLEAF*.zip
