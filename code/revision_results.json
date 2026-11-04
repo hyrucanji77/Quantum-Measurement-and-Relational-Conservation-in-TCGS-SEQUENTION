@@ -1,0 +1,449 @@
+{
+  "seed": 20261104,
+  "tolerance": 5e-11,
+  "checks_passed": 88,
+  "checks_failed": 0,
+  "maximum_absolute_error": 4.440892098500626e-16,
+  "checks": [
+    {
+      "name": "measure_prepare_trace_preserving",
+      "maximum_absolute_error": 2.220446049250313e-16,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_mean_preserving",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_second_moment",
+      "maximum_absolute_error": 2.220446049250313e-16,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_zero_sector_output",
+      "maximum_absolute_error": 1.1102230246251565e-16,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_formula_0",
+      "maximum_absolute_error": 1.1102230246251565e-16,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_mean_0",
+      "maximum_absolute_error": 2.7755575615628914e-17,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_formula_1",
+      "maximum_absolute_error": 5.551115123125783e-17,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_mean_1",
+      "maximum_absolute_error": 5.551115123125783e-17,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_formula_2",
+      "maximum_absolute_error": 1.1102230246251565e-16,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_mean_2",
+      "maximum_absolute_error": 5.551115123125783e-17,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_formula_3",
+      "maximum_absolute_error": 5.551115123125783e-17,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_mean_3",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_formula_4",
+      "maximum_absolute_error": 1.1102230246251565e-16,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_mean_4",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_formula_5",
+      "maximum_absolute_error": 1.1102230246251565e-16,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_mean_5",
+      "maximum_absolute_error": 5.551115123125783e-17,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_formula_6",
+      "maximum_absolute_error": 5.551115123125783e-17,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_mean_6",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_formula_7",
+      "maximum_absolute_error": 1.1102230246251565e-16,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_mean_7",
+      "maximum_absolute_error": 5.551115123125783e-17,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_formula_8",
+      "maximum_absolute_error": 5.551115123125783e-17,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_mean_8",
+      "maximum_absolute_error": 5.551115123125783e-17,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_formula_9",
+      "maximum_absolute_error": 1.1102230246251565e-16,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_mean_9",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_formula_10",
+      "maximum_absolute_error": 1.1102230246251565e-16,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_mean_10",
+      "maximum_absolute_error": 8.326672684688674e-17,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_formula_11",
+      "maximum_absolute_error": 1.1102230246251565e-16,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_mean_11",
+      "maximum_absolute_error": 5.551115123125783e-17,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_formula_12",
+      "maximum_absolute_error": 1.1102230246251565e-16,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_mean_12",
+      "maximum_absolute_error": 5.551115123125783e-17,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_formula_13",
+      "maximum_absolute_error": 5.551115123125783e-17,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_mean_13",
+      "maximum_absolute_error": 5.551115123125783e-17,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_formula_14",
+      "maximum_absolute_error": 1.1102230246251565e-16,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_mean_14",
+      "maximum_absolute_error": 5.551115123125783e-17,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_formula_15",
+      "maximum_absolute_error": 5.551115123125783e-17,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_mean_15",
+      "maximum_absolute_error": 5.551115123125783e-17,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_formula_16",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_mean_16",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_formula_17",
+      "maximum_absolute_error": 1.1102230246251565e-16,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_mean_17",
+      "maximum_absolute_error": 5.551115123125783e-17,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_formula_18",
+      "maximum_absolute_error": 1.1102230246251565e-16,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_mean_18",
+      "maximum_absolute_error": 2.7755575615628914e-17,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_formula_19",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "measure_prepare_all_input_mean_19",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_normalization_0",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_no_sector_transfer_0",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_endpoint_equality_0",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_bayes_0",
+      "maximum_absolute_error": 1.1102230246251565e-16,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_normalization_1",
+      "maximum_absolute_error": 2.220446049250313e-16,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_no_sector_transfer_1",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_endpoint_equality_1",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_bayes_1",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_normalization_2",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_no_sector_transfer_2",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_endpoint_equality_2",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_bayes_2",
+      "maximum_absolute_error": 1.1102230246251565e-16,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_normalization_3",
+      "maximum_absolute_error": 2.220446049250313e-16,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_no_sector_transfer_3",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_endpoint_equality_3",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_bayes_3",
+      "maximum_absolute_error": 1.1102230246251565e-16,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_normalization_4",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_no_sector_transfer_4",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_endpoint_equality_4",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_bayes_4",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_normalization_5",
+      "maximum_absolute_error": 2.220446049250313e-16,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_no_sector_transfer_5",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_endpoint_equality_5",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_bayes_5",
+      "maximum_absolute_error": 1.1102230246251565e-16,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_normalization_6",
+      "maximum_absolute_error": 4.440892098500626e-16,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_no_sector_transfer_6",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_endpoint_equality_6",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_bayes_6",
+      "maximum_absolute_error": 1.1102230246251565e-16,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_normalization_7",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_no_sector_transfer_7",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_endpoint_equality_7",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_bayes_7",
+      "maximum_absolute_error": 1.1102230246251565e-16,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_normalization_8",
+      "maximum_absolute_error": 1.1102230246251565e-16,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_no_sector_transfer_8",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_endpoint_equality_8",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_bayes_8",
+      "maximum_absolute_error": 1.3877787807814457e-17,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_normalization_9",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_no_sector_transfer_9",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_endpoint_equality_9",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "matched_protocol_bayes_9",
+      "maximum_absolute_error": 5.551115123125783e-17,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "flip_balanced_marginal",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "flip_sharp_input",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "flip_unit_sector_transfer",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    },
+    {
+      "name": "spin_zero_zero_total_jz",
+      "maximum_absolute_error": 0.0,
+      "tolerance": 5e-11
+    }
+  ]
+}
